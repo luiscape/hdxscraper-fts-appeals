@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Running the scraper.
-~R/bin/Rscript ~tool/code/scraper.R
+~/R/bin/Rscript ~/tool/code/scraper.R
